@@ -231,5 +231,5 @@ Dr. Wayne Crawford
 **DAS & SOP**
 - [Dr. Javier Quinteros](https://www.gfz.de/en/staff/javier.quinteros/sec24) ([GFZ Potsdam](https://www.gfz.de/en/), Germany)
 - [Dr. Afonso Loureiro](https://idl.ciencias.ulisboa.pt/afonso-loureiro) ([ARDITI](https://www.arditi.pt/), Portugal)/([IDL](https://idl.ciencias.ulisboa.pt/), Portugal)
-- [Dr. Rudolf Vohnout](https://www.linkedin.com/in/rudolfvohnout/) ([Cesnet](https://photonics.cesnet.cz/en/start/), France)
-- [Dr. Martin Šlapák](https://www.researchgate.net/profile/Martin-Slapak) ([Cesnet](https://photonics.cesnet.cz/en/start/), France)
+- [Dr. Rudolf Vohnout](https://www.linkedin.com/in/rudolfvohnout/) ([Cesnet](https://photonics.cesnet.cz/en/start/), Czechia)
+- [Dr. Martin Šlapák](https://www.researchgate.net/profile/Martin-Slapak) ([Cesnet](https://photonics.cesnet.cz/en/start/), Czechia)
